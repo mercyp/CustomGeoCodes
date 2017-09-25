@@ -1,2 +1,2 @@
 # CustomGeoCodes
-Custom Geoocdes for United States
+Custom Geoocdes for United States ot use in Tableau
